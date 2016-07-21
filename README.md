@@ -1,2 +1,2 @@
 # multiplier-vhdl
-8-bit Pipelined Multiplier using 4x2 Additive Multiply Modules
+This project implements an 8-bit multiplier using pipelined 4x2 Additive Multiply Modules (AMM’s) in VHDL. The multiplier takes two 8-bit binary inputs a_8, b_8 and gives a 16-bit binary output p_16.
