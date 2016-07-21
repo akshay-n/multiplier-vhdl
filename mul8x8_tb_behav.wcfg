@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="mul8x8_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="mul8x8_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="9996966fs"></ZoomStartTime>
+      <ZoomEndTime time="10000607fs"></ZoomEndTime>
+      <Cursor1Time time="10000000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="5" />
+   <wvobject db_ref_id="1" fp_name="/mul8x8_tb/a_8" type="array">
+      <obj_property name="ElementShortName">a_8[7:0]</obj_property>
+      <obj_property name="ObjectShortName">a_8[7:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/mul8x8_tb/b_8" type="array">
+      <obj_property name="ElementShortName">b_8[7:0]</obj_property>
+      <obj_property name="ObjectShortName">b_8[7:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/mul8x8_tb/p_16" type="array">
+      <obj_property name="ElementShortName">p_16[15:0]</obj_property>
+      <obj_property name="ObjectShortName">p_16[15:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/mul8x8_tb/clk_in" type="logic">
+      <obj_property name="ElementShortName">clk_in</obj_property>
+      <obj_property name="ObjectShortName">clk_in</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/mul8x8_tb/clk_period" type="other">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+</wave_config>
